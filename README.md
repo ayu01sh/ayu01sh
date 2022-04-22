@@ -1,6 +1,6 @@
 - 😊 Hieee, I am Ayush Srivastava.
-- 👀 I’m interested in exploring all the stuff that arouses the curiosity of my inner child.
-- 🌱 I’m currently learning web development.
+- 👀 Exploring all the stuff that arouses my curiosity is what interests me.
+- 🌱 Right now I'm learning web development :)
 
 <!---
 ayu01sh/ayu01sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
