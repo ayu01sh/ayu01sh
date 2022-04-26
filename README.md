@@ -3,7 +3,7 @@ ayu01sh/ayu01sh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hieee, I am Ayush Srivastava</h1>
+<h1 align="center">Hieee, I am Ayush</h1>
 <h3 align="center">A passionate creator from India</h3>
 
 - 🌱 I’m currently learning **web development**
