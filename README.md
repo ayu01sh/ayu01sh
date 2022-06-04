@@ -1,9 +1,4 @@
-<!---
-ayu01sh/ayu01sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hieee <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ayush</h1>
+<h1 align="center">Hieee<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35px">, I am Ayush</h1>
 <h3 align="center">A passionate creator from India</h3>
 
 <h3 align="center">Connect with me:</h3>
